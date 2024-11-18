@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Developer | Web Developer | Student
+role: Web Developer | Student
 
 # Organizations/Affiliations to display in Biography block
 organizations:
