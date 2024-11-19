@@ -58,7 +58,7 @@ education:
       Focused on problem-solving, data structures, algorithms, and software development.
 
   - area: "HSC"
-    institution: "Shahid Bir Uttam Lt. Anwar Girls College"
+    institution: "Shaheed Bir Uttam Lt. Anwar Girls College"
     date_start: "2018-01-06"
     date_end: "2020-04-01"
     summary: |
@@ -116,8 +116,9 @@ languages:
     percent: 100
   - name: Bangla
     percent: 100
-  - name: Korean
-    percent: 50
+  - name: Hindi
+    percent: 80
+
 ---
 
 ## About Me
